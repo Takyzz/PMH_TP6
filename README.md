@@ -1,4 +1,4 @@
-# PMH_TPs
+# PMH_TP6
 #### 1
 - TPS given in PMH Class at UdM
 #### 2
